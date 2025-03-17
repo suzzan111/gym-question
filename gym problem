@@ -1,6 +1,6 @@
-package BMAI203;
+package BMAI165;
 import java.util.Scanner;
-public class GYM_203
+public class GYM_165
 {
     String name;
     int age;
